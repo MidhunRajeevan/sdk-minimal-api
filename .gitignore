@@ -1,0 +1,16 @@
+bin/
+obj/
+*.user
+*.lock.json
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vs/
+.vscode/
+.project
+*.swp
+*.suo
+*.userosscache
+*.sln.docstates
