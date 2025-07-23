@@ -16,7 +16,9 @@ List<Product> products =
 [
     new Product(1, "Laptop", 1500),
     new Product(2, "Phone", 800),
-    new Product(3, "Tablet", 400)
+    new Product(3, "Tablet", 400),
+    new Product(4, "Monitor", 300),
+    new Product(5, "Keyboard", 100)
 ];
 
 app.MapGet("/products", () =>
